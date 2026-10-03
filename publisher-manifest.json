@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "baab290e1309d9fb25fd21b8",
+  "owner": "ju79qjwha",
+  "repo": "page-cf80e6e69dc7345f65c4ef0b",
+  "title": "BFG加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cf80e6e69dc7345f65c4ef0b",
+      "a": "BFG加速",
+      "b": "",
+      "entity": "BFG加速",
+      "brand": "BFG加速",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2c8e05cd5c07e45b7481d593a1af073cbbd0fbdc07e101785f512262785a44fe",
+      "content": {
+        "keyword1": "BFG加速",
+        "keyword2": "",
+        "primary_entity": "BFG加速",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "BFG加速提供稳定的机场订阅与VPN网络加速服务，支持多端官方客户端下载，覆盖流媒体解锁、游戏IPLC专线与全球节点，欢迎访问官网选购套餐。",
+          "AI_DESCRIPTION": "BFG加速提供稳定的机场订阅与VPN网络加速服务，支持多端官方客户端下载，覆盖流媒体解锁、游戏IPLC专线与全球节点，欢迎访问官网选购套餐。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{scroll-behavior:auto}body{font-family:system-ui,-apple-system,sans-serif;line-height:1.65;color:#2a2420;background:#FDF6F0;font-size:16px;margin:0}*,*:before,*:after{box-sizing:border-box}a{color:#C4472A;text-decoration:none}header{background:#fff;border-bottom:4px solid #E07A5F;padding:12px 0}.wrap{max-width:640px;margin:0 auto;padding:0 16px}nav{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:center}nav a{font-size:14px;font-weight:600;padding:6px 0}main{padding:24px 0 40px}h1{font-size:1.75rem;color:#B83B22;text-align:center;margin:0 0 12px} .lead{text-align:center;color:#5a4a44;margin-bottom:28px}h2{font-size:1.35rem;color:#B83B22;margin:36px 0 14px;padding-bottom:8px;border-bottom:2px solid #F2C4B4}h3{font-size:1.1rem;color:#3d322e;margin:18px 0 8px}p,li{margin:0 0 10px}ul{padding-left:1.25em}.card{background:#fff;border:1px solid #F0D0C4;border-radius:10px;padding:18px;margin-bottom:14px}.featured{border:2px solid #E07A5F;background:#FFF8F5}.badge{display:inline-block;background:#E07A5F;color:#fff;font-size:12px;font-weight:700;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:1.5rem;font-weight:800;color:#C4472A;margin:8px 0 4px}.annual{font-size:13px;color:#7a655c}.feat-list{list-style:none;padding:0;margin:12px 0 0}.feat-list li{padding:6px 0 6px 20px;position:relative}.feat-list li:before{content:\"•\";position:absolute;left:0;color:#E07A5F;font-weight:bold}.step{display:flex;gap:14px;align-items:flex-start;background:#fff;border-radius:10px;padding:16px;margin-bottom:12px;border:1px solid #F0D0C4}.num{flex-shrink:0;width:36px;height:36px;background:#E07A5F;color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800}.client{background:#fff;border-left:4px solid #E07A5F;padding:14px 16px;margin-bottom:10px;border-radius:0 8px 8px 0}.client h3{margin:0 0 6px;font-size:1.05rem}.btn{display:inline-block;background:#E07A5F;color:#fff;padding:8px 16px;border-radius:6px;font-weight:600;font-size:14px;margin-top:6px}details{background:#fff;border:1px solid #F0D0C4;border-radius:8px;margin-bottom:10px;padding:0 14px}summary{padding:14px 0;font-weight:700;color:#B83B22}details p{padding-bottom:14px;color:#4a3e3a}.ad{background:#FFF1EA;border:1px dashed #E07A5F;border-radius:8px;padding:16px;text-align:center;margin:28px 0;font-size:15px}footer{background:#3A2A26;color:#E8D5CE;padding:28px 0;font-size:13px}footer h2,footer h3{color:#FFB59A;border:none;margin:16px 0 8px;font-size:1rem}footer ul{list-style:none;padding:0}footer li{margin-bottom:6px}footer a{color:#FFB59A}.copy{margin-top:20px;text-align:center;color:#b89a90;border-top:1px solid #5a403a;padding-top:16px}@media(min-width:600px){h1{font-size:2rem}}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></div></header><main class=\"wrap\"><h1>BFG加速</h1><p class=\"lead\">BFG加速官方网站提供机场订阅、VPN网络加速与多端客户端下载，节点覆盖主流地区，适合流媒体、办公与游戏加速。</p><section id=\"intro\"><h2>品牌简介</h2><p>BFG加速是面向个人与团队的网络加速与机场订阅服务。我们把稳定线路、清晰套餐和官方客户端下载放在同一站点，减少用户在第三方渠道寻找配置的成本。</p><p>服务侧重点包括：全球常规节点与部分 IPLC 专线、流媒体解锁、多设备同时在线，以及按流量分层的基础版、旗舰版与团队版。访问 BFG加速官网即可查看套餐并进入客户端选择流程。</p><p>节点日常覆盖香港、日本、新加坡、美国、台湾及部分欧洲入口，高峰时段采用多入口分流。旗舰版与团队版可使用更高带宽节点，并获得优先工单通道。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"card\"><h3>流媒体与内容访问</h3><p>用于观看海外影视与音乐平台、高清视频会议回放，以及需要固定出口的内容站点。旗舰版强调全节点原生流媒体解锁。</p></div><div class=\"card\"><h3>跨境办公与资料检索</h3><p>适合文档协作、代码仓库、学术数据库与云盘同步。普通线路节点池即可满足日常网页与中小文件传输。</p></div><div class=\"card\"><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，降低部分区服的绕路延迟。团队版可为企业或战队定制路由。</p></div><div class=\"card\"><h3>多设备家庭与工作室</h3><p>基础版支持 3 台设备，旗舰版 5 台，团队版 20 台同时在线，方便手机、电脑与路由器共用同一订阅。</p></div></section><section id=\"plans\"><h2>套餐说明</h2><p>价格按月展示，年付可降低综合成本。流量为每月额度，周期结束按套餐规则重置。请根据同时在线设备数与是否需要游戏专线选择。</p><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat-list\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat-list\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat-list\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"clients\"><h2>客户端选择</h2><p>BFG加速强调先选对客户端再导入订阅。以下为官网推荐组合，下载说明与导入步骤见下方操作说明。所有安装包请仅通过本站官方下载入口获取。</p><div class=\"client\"><h3>Windows</h3><p>推荐 Clash Verge 或 v2rayN。适合桌面长时间在线、规则分流与系统代理。导入通用订阅后更新节点即可。</p><a class=\"btn\" href=\"#guide\">Windows 官方下载说明</a></div><div class=\"client\"><h3>macOS</h3><p>推荐 ClashX.Meta 或 Surge。菜单栏可快速切换节点，适合笔记本移动办公与流媒体。</p><a class=\"btn\" href=\"#guide\">macOS 官方下载说明</a></div><div class=\"client\"><h3>Android</h3><p>推荐 Clash Meta for Android。支持分应用代理，便于手机仅加速浏览器或指定 App。</p><a class=\"btn\" href=\"#guide\">Android 官方下载说明</a></div><div class=\"client\"><h3>iOS</h3><p>推荐 Shadowrocket 或 Stash。需在对应商店获取应用后，于客户端内粘贴订阅链接。</p><a class=\"btn\" href=\"#guide\">iOS 配置说明</a></div><div class=\"client\"><h3>路由器与 Linux</h3><p>OpenWrt 可使用 OpenClash；部分梅林固件可使用插件。Linux 桌面可用 Clash 内核或命令行客户端，便于整网覆盖。</p><a class=\"btn\" href=\"#guide\">路由与 Linux 说明</a></div></section><section id=\"guide\"><h2>操作说明</h2><p>按纵向步骤完成订阅、下载、导入与连接。遇到界面差异时，以各客户端内「订阅 / Profiles / 配置」入口为准。</p><div class=\"step\"><div class=\"num\">1</div><div><h3>选择套餐并完成订阅</h3><p>在本页套餐中确认流量与设备数，年付可降低单价。订阅成功后，在用户中心复制通用订阅链接，后续各端共用同一链接。</p></div></div><div class=\"step\"><div class=\"num\">2</div><div><h3>按设备下载官方客户端</h3><p>回到「客户端选择」，匹配 Windows、macOS、Android、iOS 或路由器。仅使用 BFG加速官网给出的下载说明，避免来路不明的修改版。</p></div></div><div class=\"step\"><div class=\"num\">3</div><div><h3>导入订阅并更新节点</h3><p>打开客户端，选择从 URL 导入或添加订阅，粘贴链接后执行更新。确认节点列表出现香港、日本、新加坡、美国等入口后再连接。</p></div></div><div class=\"step\"><div class=\"num\">4</div><div><h3>选择节点并开启系统代理</h3><p>优先选择延迟较低的节点。观看流媒体时使用解锁标识线路；游戏可尝试旗舰 IPLC。连接后在客户端开启系统代理或 TUN 模式。</p></div></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>BFG加速是什么，和普通加速器有何不同？</summary><p>BFG加速是提供机场订阅与多端客户端下载的网络加速服务。除常规网页加速外，套餐按流量与设备分层，旗舰版包含原生流媒体解锁与 IPLC 游戏优化，团队版面向多设备共享。</p></details><details><summary>如何在官网完成客户端下载？</summary><p>进入本页「客户端选择」，按操作系统查看推荐软件，再对照操作说明第二步获取官方下载说明。请勿在搜索引擎随意下载同名安装包。</p></details><details><summary>各套餐流量和同时在线设备如何计算？</summary><p>基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。同时在线以实际连接会话为准，流量在计费周期内累计。</p></details><details><summary>订阅链接导入失败怎么办？</summary><p>检查链接是否完整复制、客户端是否为推荐版本，以及网络是否已能访问订阅地址。可更换客户端或稍后重试更新。仍失败时通过旗舰或团队工单通道反馈。</p></details><details><summary>节点不够稳定或流媒体无法播放如何处理？</summary><p>先切换同地区其他节点或开启客户端自动选择。旗舰版强调全节点原生解锁，若某一入口失效，更新订阅后再试。游戏场景优先使用带 IPLC 标识的线路。</p></details><details><summary>是否只能在本站下载，第三方镜像能用吗？</summary><p>BFG加速只把官方网站作为客户端与说明的发布渠道。第三方镜像可能被篡改配置或捆绑无关程序，因此请始终回到本页客户端选择与操作说明。</p></details></section><div class=\"ad\" id=\"ads\">BFG加速官网合作提示：年付套餐可降低每月成本，客户端请配合官方下载说明使用。广告位仅展示文字合作信息，不跳转站外。</div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"footer\"><div class=\"wrap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐说明</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li></ul><h3>友情链接</h3><ul><li><a href=\"#guide\">客户端导入教程</a></li><li><a href=\"#clients\">多端加速器入口</a></li><li><a href=\"#plans\">机场订阅套餐</a></li><li><a href=\"#faq\">梯子常见问答</a></li></ul><p class=\"copy\">BFG加速 官方网站 · 机场订阅与 VPN 客户端下载 · 保留品牌原意，仅通过本站获取说明与套餐信息</p></div></footer>",
+          "hash": "53656701dcfcb96ce948236ff0c69109cdd91fdc5400385f82bc2563069ea13b",
+          "seo": {
+            "title": "BFG加速官网 | 机场订阅与VPN客户端下载",
+            "keywords": "BFG加速,BFG加速官网,BFG加速下载,VPN,梯子,网络加速,加速器,机场订阅,客户端下载,官方下载",
+            "description": "BFG加速提供稳定的机场订阅与VPN网络加速服务，支持多端官方客户端下载，覆盖流媒体解锁、游戏IPLC专线与全球节点，欢迎访问官网选购套餐。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cjifz.cn",
+    "host": "p-463864f5cb.cjifz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "szjsst.cn",
+      "url": "https://szjsst.cn/",
+      "label": "BFG加速",
+      "apex": "szjsst.cn",
+      "kind": null,
+      "identity": "huyrg2721/page-c039d5d513c96125c6dc5358"
+    },
+    {
+      "host": "tangduyi.cn",
+      "url": "https://tangduyi.cn/",
+      "label": "BFG加速",
+      "apex": "tangduyi.cn",
+      "kind": null,
+      "identity": "wangbadan9/page-9621cb5a3424115409bc2164"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "dd7b73db03549a4e7d6da5899119164c9bfc14973d6d3e33c47ad996ff4ae391",
+    "sitemap.xml": "0ff1ca7d5bc3b8909ac4a681ae3c991e2ded5d9a0abfc0393769acdff54a234d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c80e1186567cd8e0ce97e56d13cc30c4557fe03abcc69a9b431551299bfadeb5",
+    "robots.txt": "17c72c29c57e1c0c3b2a5e2dca9ec03967b39054bcc192e5753329c08cf7fc4b",
+    "a66f5f660c250276b85ca4b096f5b8e2.txt": "bf4dfd502b43d4450a3168e280529d85395f7571017eb44aeec734a0ec288e5c"
+  },
+  "revision": "dca0d18e61a2b09c00eda72cb1a1e38cc3a872c48e58e796736cbed543e9561b"
+}
